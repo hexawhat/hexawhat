@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hexawhat
-- 👀 I’m interested in fun porgramming proyects
+- 👀 I’m interested in fun porgramming Python/PHP/SQL proyects
 - 🌱 I’m currently learning...
 - 📫 How to reach me ... Smoke signals
